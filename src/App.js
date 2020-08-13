@@ -1,9 +1,7 @@
 import React from 'react';
 
 import {    
-	BrowserRouter
-	
-  } from "react-router-dom";
+	BrowserRouter} from "./react-router-dom";
 import  Page from './components/Page'
 
 class App extends React.Component{
