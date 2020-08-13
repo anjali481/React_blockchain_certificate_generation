@@ -1,11 +1,8 @@
 import React from 'react';
 
 import {    
-	BrowserRouter,
-	Switch,
-	Route,
-	Link,
-	useParams
+	BrowserRouter
+	
   } from "react-router-dom";
 import  Page from './components/Page'
 
