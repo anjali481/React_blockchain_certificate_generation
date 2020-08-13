@@ -2,7 +2,7 @@ import React from 'react';
 
 import {    
 	BrowserRouter,
-        useParams} from "react-router-dom";
+        Route} from "react-router-dom";
 import  Page from './components/Page'
 
 class App extends React.Component{
