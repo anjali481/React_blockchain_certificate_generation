@@ -10,7 +10,7 @@ class App extends React.Component{
 	return (
 	  <BrowserRouter>
 	  <div className="App">
-		  <Route exact path="/:page_id" component={Page}/>
+		  <Route exact path="/?:page_id" component={Page}/>
 
 		  </div>
 		  </BrowserRouter>
