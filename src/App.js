@@ -10,7 +10,7 @@ class App extends React.Component{
 	return (
 	  <BrowserRouter>
 	  <div className="App">
-		  <Route path="/index.html=" component={Page}/>
+		  <Route path="/page_id" component={Page}/>
 
 		  </div>
 		  </BrowserRouter>
